@@ -6,8 +6,7 @@ Version: 1.0
 Author: kamisaka
 */
 
-.js-fadeinup-trigger,
-.js-fadein-trigger {
+.js-fadeinup-trigger{
   opacity: 1;
   /* もともと0だった */
 }
